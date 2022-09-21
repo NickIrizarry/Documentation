@@ -1,7 +1,12 @@
 # How to enable multi-factor authenticaation for Microsoft Teams and manage user permissions.
 
 
-## Step one - Navigate to the Microsoft teams admin panel - URL below
+## 1. Navigate to the Microsoft teams admin panel - link to admin panel below.
 https://admin.microsoft.com
 
-## Step two - login using an ADMIN account
+## 2. Login to the ADMIN panel with an ADMIN account.
+### Note - if you do NOT have admin permissions you will not be able to login.
+
+## 3. Locate ≡ near the top left of the screen and select Show All
+
+IMG_0030.jpg<img width="465" alt="image" src="https://user-images.githubusercontent.com/44510115/191438854-91fe9bb3-6b4f-42d6-8a82-a1960f851d9a.png">
