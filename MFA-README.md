@@ -34,3 +34,5 @@ Note when enabling this function it will enable MFA for __ALL__ users. In order 
 ## 9. SAVE YOUR CHANGES
 
 ## 10. You have successfully implented MFA for all of your users. At the time of a users next login, they will be prompted to set up MFA before access is granted.
+
+<a href="https://learn.microsoft.com/en-us/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication?view=o365-worldwide">Microsoft Documentation</a> 
