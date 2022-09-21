@@ -5,7 +5,7 @@
 https://admin.microsoft.com
 
 ## 2. Login to the admin panel with an ADMIN account.
-Note - if you do NOT have admin permissions you will not be able to login.
+Note - if you do NOT have admin permissions you will not granted access.
 
 ## 3. Locate ≡ near the top left of the screen and select Show All
 
