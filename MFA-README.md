@@ -10,3 +10,5 @@ Note - if you do NOT have admin permissions you will not be able to login.
 ## 3. Locate ≡ near the top left of the screen and select Show All
 
 <img width="465" alt="image" src="https://user-images.githubusercontent.com/44510115/191438854-91fe9bb3-6b4f-42d6-8a82-a1960f851d9a.png">
+
+## 4. Select Azure Active Directory, Properties, Manage Security defaults.
