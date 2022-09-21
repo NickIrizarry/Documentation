@@ -16,6 +16,6 @@ A new tab will open which you will navigate in step 5.
 
 <img width="274" alt="image" src="https://user-images.githubusercontent.com/44510115/191440450-deb55830-ee91-4d00-8066-35d10aeb7c9a.png">
 
-## 5. 
+## 5. Select Azure Active Directory
 
 <img width="279" alt="image" src="https://user-images.githubusercontent.com/44510115/191441348-bfa19c81-a836-4273-a1bc-b0d836fabd72.png">
