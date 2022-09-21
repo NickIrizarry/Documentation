@@ -4,7 +4,7 @@
 ## 1. Navigate to the Microsoft teams admin panel - link to admin panel below.
 https://admin.microsoft.com
 
-## 2. Login to the ADMIN panel with an ADMIN account.
+## 2. Login to the admin panel with an ADMIN account.
 Note - if you do NOT have admin permissions you will not be able to login.
 
 ## 3. Locate ≡ near the top left of the screen and select Show All
