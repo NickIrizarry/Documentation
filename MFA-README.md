@@ -16,6 +16,10 @@ A new tab will open which you will navigate in step 5.
 
 <img width="274" alt="image" src="https://user-images.githubusercontent.com/44510115/191440450-deb55830-ee91-4d00-8066-35d10aeb7c9a.png">
 
-## 5. Select Azure Active Directory - under the favorites section.
+## 5. Select Azure Active Directory - located under the favorites section.
 
 <img width="279" alt="image" src="https://user-images.githubusercontent.com/44510115/191441348-bfa19c81-a836-4273-a1bc-b0d836fabd72.png">
+
+## 6. Select Properties from the scroll bar. - located above Monitoring section.
+
+<img width="476" alt="image" src="https://user-images.githubusercontent.com/44510115/191442533-82b876b0-63cf-4704-a152-c6c8c43caa04.png">
