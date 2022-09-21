@@ -27,7 +27,7 @@ A new tab will open which you will navigate in step 5.
 ## 7. Click Manage security defaults hyperlink - located at the bottom center of the screen. 
 
 ## 8. Change enable security defaults to Yes - this prompt is located on the right of the screen.
-Note when enabling this function it will enable MFA for __ALL__ users. In order to manage permissions for certain users, you will need to seek __place holder__ documentation. 
+Note when enabling this function it will enable MFA for __ALL__ users. In order to manage permissions for certain users, you will need to seek <a href="">__place holder__</a> documentation. 
 
 <img width="429" alt="image" src="https://user-images.githubusercontent.com/44510115/191443619-671c1e7a-589f-4114-bdcb-830ced53abdd.png">
 
