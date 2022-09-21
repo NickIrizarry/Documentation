@@ -1,4 +1,4 @@
-# How to enable multi-factor authenticaation for Microsoft Teams and manage user permissions.
+# How to enable multi-factor authentication for Microsoft Teams and manage user permissions.
 
 
 ## 1. Navigate to the Microsoft teams admin panel - link to admin panel below.
@@ -11,4 +11,7 @@ Note - if you do NOT have admin permissions you will not granted access.
 
 <img width="465" alt="image" src="https://user-images.githubusercontent.com/44510115/191438854-91fe9bb3-6b4f-42d6-8a82-a1960f851d9a.png">
 
-## 4. Select Azure Active Directory, Properties, Manage Security defaults.
+## 4. Select Azure Active Directory - located under the *admin centers* section 
+
+<img width="274" alt="image" src="https://user-images.githubusercontent.com/44510115/191440450-deb55830-ee91-4d00-8066-35d10aeb7c9a.png">
+
