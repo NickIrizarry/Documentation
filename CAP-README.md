@@ -41,3 +41,18 @@ This will exempt the user group, selected in step 9, from MFA.
 
 <img width="330" alt="image" src="https://user-images.githubusercontent.com/44510115/191876153-59907802-48a1-4f16-89c5-cab6f7eff355.png">
 
+## 11. Select access control and select the grant access radio button. Next, check the require MFA box. 
+This will impose MFA on user groups selected in step 9. Make sure you press the select button at the bottom of the page after checking the MFA box. 
+
+<img width="301" alt="image" src="https://user-images.githubusercontent.com/44510115/191888115-e8650b47-e1d3-4170-b451-d9272ff2e5f2.png">
+
+## 12. Toggle the Enable Policy button to on. 
+
+<img width="272" alt="image" src="https://user-images.githubusercontent.com/44510115/191888249-66acee30-b20d-49f3-9f04-00de31de24e5.png">
+
+## 13. Create. 
+
+<img width="267" alt="image" src="https://user-images.githubusercontent.com/44510115/191888324-52fe85e1-c5a6-4ed0-9cdd-071874a9512e.png">
+
+## 14. You have created a MFA policy for selected user groups. 
+Users in your selected group will now be required to use MFA to login. 
