@@ -1,4 +1,4 @@
-# Conditional Access Policy Documentation
+# Conditional Access Policy Documentation - exempting users from multi-factor authentication(MFA). 
 
 ## 1. Navigate to the Microsoft teams admin panel - link to admin panel below.
 
@@ -24,3 +24,13 @@ Note - if you do NOT have admin permissions you will not be granted access.
 
 <img width="267" alt="image" src="https://user-images.githubusercontent.com/44510115/191873778-cc38da18-5ea5-4beb-94e0-36fa00e1b418.png">
 
+## 7. Create a new policy. 
+
+<img width="668" alt="image" src="https://user-images.githubusercontent.com/44510115/191874065-1c801fe7-751c-454c-bcc7-3e3a5419df87.png">
+
+## 8. Name the policy. 
+For our use case we're going to be adding MFA for all users and add exemptions for certain users. Note, you are able to exempt *ANY* user, including admins, from policies. 
+<img width="302" alt="image" src="https://user-images.githubusercontent.com/44510115/191874617-dcb63410-8221-4ab5-8883-10653c639d2b.png">
+
+## 9. Under assignments select the Users and groups radio button. 
+This will provide you with a list of groups and users on the right hand side of the page. Select the user(s) and or group(s) that you would like to exemept from MFA. 
