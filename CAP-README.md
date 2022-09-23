@@ -8,9 +8,9 @@ https://admin.microsoft.com
 
 Note - if you do NOT have admin permissions you will not be granted access.
 
-## 3. 
+## 3. Locate ≡ near the top left of the screen and select Show All
 
-## 4. 
+<img width="465" alt="image" src="https://user-images.githubusercontent.com/44510115/191438854-91fe9bb3-6b4f-42d6-8a82-a1960f851d9a.png">
 
 ## 5. 
 
