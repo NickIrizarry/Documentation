@@ -30,6 +30,7 @@ Note - if you do NOT have admin permissions you will not be granted access.
 
 ## 8. Name the policy. 
 For our use case we're going to be adding MFA for all users and add exemptions for certain users. Note, you are able to exempt *ANY* user, including admins, from policies. 
+
 <img width="302" alt="image" src="https://user-images.githubusercontent.com/44510115/191874617-dcb63410-8221-4ab5-8883-10653c639d2b.png">
 
 ## 9. Under assignments select the Users and groups radio button. 
