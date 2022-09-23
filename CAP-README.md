@@ -14,6 +14,8 @@ Note - if you do NOT have admin permissions you will not be granted access.
 
 ## 4. Select Azure Active Directory - located under the __Admin centers__ section.
 
+<img width="274" alt="image" src="https://user-images.githubusercontent.com/44510115/191440450-deb55830-ee91-4d00-8066-35d10aeb7c9a.png">
+
 ## 5. Select Enterprise Applications - located under the Favorites Section.
 
 <img width="277" alt="image" src="https://user-images.githubusercontent.com/44510115/191873655-f110ab9a-5917-4e23-97e9-cbc8da741e03.png">
