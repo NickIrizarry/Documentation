@@ -35,3 +35,9 @@ For our use case we're going to be adding MFA for all users and add exemptions f
 
 ## 9. Under assignments select the Users and groups radio button. 
 This will provide you with a list of groups and users on the right hand side of the page. Select the user(s) and or group(s) that you would like to exemept from MFA. 
+
+## 10. Under Cloud apps or actions select all cloud apps. 
+This will exempt the user group, selected in step 9, from MFA. 
+
+<img width="330" alt="image" src="https://user-images.githubusercontent.com/44510115/191876153-59907802-48a1-4f16-89c5-cab6f7eff355.png">
+
